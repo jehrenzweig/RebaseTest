@@ -4,5 +4,6 @@
     {
 		private int a = 1;
 		private bool b = true;
-    }
+		private bool b2 = false;
+	}
 }
