@@ -4,5 +4,6 @@
     {
 		private int a = 1;
 		private int a2 = 2;
+		private int a3 = 3;
 	}
 }
